@@ -6,7 +6,7 @@ and the DTCG-style brand token format used by this pack.
 
 ## Mustache slots
 
-Source: https://mustache.github.io/mustache.5.html (fetched 2026-01-12)
+Source: https://mustache.github.io/mustache.5.html (fetched 2026-10-10)
 
 The Mustache manual defines logic-less templates. The key tag type for this pack
 is the variable tag `{{name}}`:
@@ -22,7 +22,7 @@ fail fast instead of silently producing bad output.
 
 ## Zod schema validation
 
-Source: https://zod.dev/ (fetched 2026-01-12)
+Source: https://zod.dev/ (fetched 2026-10-10)
 
 The Zod intro describes itself as:
 
@@ -50,7 +50,7 @@ detailed errors when a kit is malformed.
 
 Source: https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio
 Source: https://www.w3.org/TR/WCAG21/#dfn-relative-luminance
-(both fetched 2026-01-12)
+(both fetched 2026-10-10)
 
 The WCAG 2.1 spec defines contrast ratio as:
 
@@ -74,7 +74,7 @@ and reports pairs that fall below AA thresholds.
 
 ## Brand token config / Style Dictionary
 
-Source: https://styledictionary.com/ (fetched 2026-01-12)
+Source: https://styledictionary.com/ (fetched 2026-10-10)
 
 Style Dictionary converts design tokens into platform-specific outputs. Its
 homepage describes the tool as:
