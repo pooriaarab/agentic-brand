@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pooriaarab/agentic-brand",
+  "description": "Brand-kit validator for voice, look, and templates.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/pooriaarab/agentic-brand",
+    "source": "github",
+    "id": 1413725513
+  },
+  "packages": [
+    {
+      "registryType": "npm",
+      "registryBaseUrl": "https://registry.npmjs.org",
+      "identifier": "agentic-brand",
+      "version": "0.1.0",
+      "transport": { "type": "stdio" },
+      "runtimeHint": "npx",
+      "packageArguments": [
+        { "type": "positional", "valueHint": "subcommand", "value": "mcp" }
+      ]
+    }
+  ]
+}

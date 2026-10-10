@@ -1,0 +1,15 @@
+# agentic-brand
+
+Brand-kit validator for voice, look, and templates.
+
+Keywords: brand-kit, voice, templates, agentic-suite, claude-code, codex, cli, mcp.
+
+- SDK: import { defineBrandKit, renderTemplate, checkVoice } from "agentic-brand".
+- CLI: agentic-brand kit --file kit.json.
+- MCP: run agentic-brand mcp, then call validate_brand_kit.
+
+## Docs
+
+- README: https://github.com/pooriaarab/agentic-brand
+- Core contract: https://github.com/pooriaarab/agentic-brand/blob/main/docs/agentic-core.md
+- License: MIT
