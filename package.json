@@ -1,16 +1,20 @@
 {
   "name": "agentic-brand",
   "version": "0.1.0",
-  "description": "Brand-kit validator for voice, look, and templates.",
+  "description": "Brand-kit validation, color contrast checks, and copy templates for TypeScript, Node.js, CLI, and Model Context Protocol tools.",
   "keywords": [
     "brand-kit",
-    "voice",
+    "brand-voice",
+    "color-contrast",
     "templates",
-    "agentic-suite",
-    "claude-code",
-    "codex",
+    "typescript",
+    "nodejs",
     "cli",
-    "mcp"
+    "mcp",
+    "model-context-protocol",
+    "zod",
+    "agentic-core",
+    "validation"
   ],
   "license": "MIT",
   "author": "Pooria Arab",
