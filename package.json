@@ -1,6 +1,6 @@
 {
   "name": "agentic-brand",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Brand-kit validation, color contrast checks, and copy templates for TypeScript, Node.js, CLI, and Model Context Protocol tools.",
   "keywords": [
     "brand-kit",
